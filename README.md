@@ -1,2 +1,5 @@
 # Testing
-Repository to try stuff out!
+
+
+This repository only exist for testing stuff, like **markdown** and other random stuff.
+
